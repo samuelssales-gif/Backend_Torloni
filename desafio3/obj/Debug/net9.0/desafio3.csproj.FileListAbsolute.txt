@@ -1,0 +1,14 @@
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\desafio3\bin\Debug\net9.0\desafio3.exe
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\desafio3\bin\Debug\net9.0\desafio3.deps.json
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\desafio3\bin\Debug\net9.0\desafio3.runtimeconfig.json
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\desafio3\bin\Debug\net9.0\desafio3.dll
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\desafio3\bin\Debug\net9.0\desafio3.pdb
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\desafio3\obj\Debug\net9.0\desafio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\desafio3\obj\Debug\net9.0\desafio3.AssemblyInfoInputs.cache
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\desafio3\obj\Debug\net9.0\desafio3.AssemblyInfo.cs
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\desafio3\obj\Debug\net9.0\desafio3.csproj.CoreCompileInputs.cache
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\desafio3\obj\Debug\net9.0\desafio3.dll
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\desafio3\obj\Debug\net9.0\refint\desafio3.dll
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\desafio3\obj\Debug\net9.0\desafio3.pdb
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\desafio3\obj\Debug\net9.0\desafio3.genruntimeconfig.cache
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\desafio3\obj\Debug\net9.0\ref\desafio3.dll

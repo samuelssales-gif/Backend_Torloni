@@ -1,4 +1,6 @@
-﻿
+﻿    Console.WriteLine("-------------------------------------------------------");
+    Console.WriteLine("                  Seja Bem Vindo meu rei"               );
+    Console.WriteLine("-------------------------------------------------------");
 int quantidade;
 double preco;
 Console.WriteLine("Digite o numero de maças");

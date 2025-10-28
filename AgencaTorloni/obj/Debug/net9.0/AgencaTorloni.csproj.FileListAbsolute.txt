@@ -1,0 +1,15 @@
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\AgencaTorloni\bin\Debug\net9.0\AgencaTorloni.exe
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\AgencaTorloni\bin\Debug\net9.0\AgencaTorloni.deps.json
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\AgencaTorloni\bin\Debug\net9.0\AgencaTorloni.runtimeconfig.json
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\AgencaTorloni\bin\Debug\net9.0\AgencaTorloni.dll
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\AgencaTorloni\bin\Debug\net9.0\AgencaTorloni.pdb
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\AgencaTorloni\obj\Debug\net9.0\AgencaTorloni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\AgencaTorloni\obj\Debug\net9.0\AgencaTorloni.AssemblyInfoInputs.cache
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\AgencaTorloni\obj\Debug\net9.0\AgencaTorloni.AssemblyInfo.cs
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\AgencaTorloni\obj\Debug\net9.0\AgencaTorloni.csproj.CoreCompileInputs.cache
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\AgencaTorloni\obj\Debug\net9.0\AgencaTorloni.sourcelink.json
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\AgencaTorloni\obj\Debug\net9.0\AgencaTorloni.dll
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\AgencaTorloni\obj\Debug\net9.0\refint\AgencaTorloni.dll
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\AgencaTorloni\obj\Debug\net9.0\AgencaTorloni.pdb
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\AgencaTorloni\obj\Debug\net9.0\AgencaTorloni.genruntimeconfig.cache
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\AgencaTorloni\obj\Debug\net9.0\ref\AgencaTorloni.dll

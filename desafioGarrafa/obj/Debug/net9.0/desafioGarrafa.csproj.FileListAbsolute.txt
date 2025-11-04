@@ -1,0 +1,15 @@
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\desafioGarrafa\bin\Debug\net9.0\desafioGarrafa.exe
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\desafioGarrafa\bin\Debug\net9.0\desafioGarrafa.deps.json
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\desafioGarrafa\bin\Debug\net9.0\desafioGarrafa.runtimeconfig.json
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\desafioGarrafa\bin\Debug\net9.0\desafioGarrafa.dll
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\desafioGarrafa\bin\Debug\net9.0\desafioGarrafa.pdb
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\desafioGarrafa\obj\Debug\net9.0\desafioGarrafa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\desafioGarrafa\obj\Debug\net9.0\desafioGarrafa.AssemblyInfoInputs.cache
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\desafioGarrafa\obj\Debug\net9.0\desafioGarrafa.AssemblyInfo.cs
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\desafioGarrafa\obj\Debug\net9.0\desafioGarrafa.csproj.CoreCompileInputs.cache
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\desafioGarrafa\obj\Debug\net9.0\desafioGarrafa.sourcelink.json
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\desafioGarrafa\obj\Debug\net9.0\desafioGarrafa.dll
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\desafioGarrafa\obj\Debug\net9.0\refint\desafioGarrafa.dll
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\desafioGarrafa\obj\Debug\net9.0\desafioGarrafa.pdb
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\desafioGarrafa\obj\Debug\net9.0\desafioGarrafa.genruntimeconfig.cache
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\desafioGarrafa\obj\Debug\net9.0\ref\desafioGarrafa.dll

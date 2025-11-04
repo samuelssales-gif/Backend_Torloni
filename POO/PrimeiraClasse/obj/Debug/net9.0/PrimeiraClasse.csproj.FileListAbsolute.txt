@@ -1,0 +1,15 @@
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\POO\PrimeiraClasse\bin\Debug\net9.0\PrimeiraClasse.exe
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\POO\PrimeiraClasse\bin\Debug\net9.0\PrimeiraClasse.deps.json
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\POO\PrimeiraClasse\bin\Debug\net9.0\PrimeiraClasse.runtimeconfig.json
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\POO\PrimeiraClasse\bin\Debug\net9.0\PrimeiraClasse.dll
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\POO\PrimeiraClasse\bin\Debug\net9.0\PrimeiraClasse.pdb
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\POO\PrimeiraClasse\obj\Debug\net9.0\PrimeiraClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\POO\PrimeiraClasse\obj\Debug\net9.0\PrimeiraClasse.AssemblyInfoInputs.cache
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\POO\PrimeiraClasse\obj\Debug\net9.0\PrimeiraClasse.AssemblyInfo.cs
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\POO\PrimeiraClasse\obj\Debug\net9.0\PrimeiraClasse.csproj.CoreCompileInputs.cache
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\POO\PrimeiraClasse\obj\Debug\net9.0\PrimeiraClasse.sourcelink.json
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\POO\PrimeiraClasse\obj\Debug\net9.0\PrimeiraClasse.dll
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\POO\PrimeiraClasse\obj\Debug\net9.0\refint\PrimeiraClasse.dll
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\POO\PrimeiraClasse\obj\Debug\net9.0\PrimeiraClasse.pdb
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\POO\PrimeiraClasse\obj\Debug\net9.0\PrimeiraClasse.genruntimeconfig.cache
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\POO\PrimeiraClasse\obj\Debug\net9.0\ref\PrimeiraClasse.dll

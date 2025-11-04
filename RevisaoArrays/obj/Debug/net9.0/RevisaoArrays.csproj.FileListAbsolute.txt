@@ -1,0 +1,15 @@
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\RevisaoArrays\bin\Debug\net9.0\RevisaoArrays.exe
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\RevisaoArrays\bin\Debug\net9.0\RevisaoArrays.deps.json
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\RevisaoArrays\bin\Debug\net9.0\RevisaoArrays.runtimeconfig.json
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\RevisaoArrays\bin\Debug\net9.0\RevisaoArrays.dll
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\RevisaoArrays\bin\Debug\net9.0\RevisaoArrays.pdb
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\RevisaoArrays\obj\Debug\net9.0\RevisaoArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\RevisaoArrays\obj\Debug\net9.0\RevisaoArrays.AssemblyInfoInputs.cache
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\RevisaoArrays\obj\Debug\net9.0\RevisaoArrays.AssemblyInfo.cs
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\RevisaoArrays\obj\Debug\net9.0\RevisaoArrays.csproj.CoreCompileInputs.cache
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\RevisaoArrays\obj\Debug\net9.0\RevisaoArrays.sourcelink.json
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\RevisaoArrays\obj\Debug\net9.0\RevisaoArrays.dll
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\RevisaoArrays\obj\Debug\net9.0\refint\RevisaoArrays.dll
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\RevisaoArrays\obj\Debug\net9.0\RevisaoArrays.pdb
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\RevisaoArrays\obj\Debug\net9.0\RevisaoArrays.genruntimeconfig.cache
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\RevisaoArrays\obj\Debug\net9.0\ref\RevisaoArrays.dll

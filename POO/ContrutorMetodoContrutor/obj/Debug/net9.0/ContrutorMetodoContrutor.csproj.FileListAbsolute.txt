@@ -1,0 +1,15 @@
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\POO\ContrutorMetodoContrutor\bin\Debug\net9.0\ContrutorMetodoContrutor.exe
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\POO\ContrutorMetodoContrutor\bin\Debug\net9.0\ContrutorMetodoContrutor.deps.json
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\POO\ContrutorMetodoContrutor\bin\Debug\net9.0\ContrutorMetodoContrutor.runtimeconfig.json
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\POO\ContrutorMetodoContrutor\bin\Debug\net9.0\ContrutorMetodoContrutor.dll
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\POO\ContrutorMetodoContrutor\bin\Debug\net9.0\ContrutorMetodoContrutor.pdb
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\POO\ContrutorMetodoContrutor\obj\Debug\net9.0\ContrutorMetodoContrutor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\POO\ContrutorMetodoContrutor\obj\Debug\net9.0\ContrutorMetodoContrutor.AssemblyInfoInputs.cache
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\POO\ContrutorMetodoContrutor\obj\Debug\net9.0\ContrutorMetodoContrutor.AssemblyInfo.cs
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\POO\ContrutorMetodoContrutor\obj\Debug\net9.0\ContrutorMetodoContrutor.csproj.CoreCompileInputs.cache
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\POO\ContrutorMetodoContrutor\obj\Debug\net9.0\ContrutorMetodoContrutor.sourcelink.json
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\POO\ContrutorMetodoContrutor\obj\Debug\net9.0\ContrutorMetodoContrutor.dll
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\POO\ContrutorMetodoContrutor\obj\Debug\net9.0\refint\ContrutorMetodoContrutor.dll
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\POO\ContrutorMetodoContrutor\obj\Debug\net9.0\ContrutorMetodoContrutor.pdb
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\POO\ContrutorMetodoContrutor\obj\Debug\net9.0\ContrutorMetodoContrutor.genruntimeconfig.cache
+C:\Users\09821784330\OneDrive\BackEnd_Torloni\POO\ContrutorMetodoContrutor\obj\Debug\net9.0\ref\ContrutorMetodoContrutor.dll

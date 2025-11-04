@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ContrutorMetodoContrutor/1.0.0": {
+        "runtime": {
+          "ContrutorMetodoContrutor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ContrutorMetodoContrutor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -39,17 +39,17 @@
 // Console.WriteLine();
 // Console.WriteLine("---------------------------");
 
-// using PrimeiraClasse;
+// // using PrimeiraClasse;
 
-// Moto hornetCarburada = new Moto();
-// Moto BMW1200 = new Moto();
+// // Moto hornetCarburada = new Moto();
+// // Moto BMW1200 = new Moto();
 
-// hornetCarburada.marca = "Honda";
-// hornetCarburada.modelo = "Hornet Carburada";
-// hornetCarburada.Acelerar();
+// // hornetCarburada.marca = "Honda";
+// // hornetCarburada.modelo = "Hornet Carburada";
+// // hornetCarburada.Acelerar();
 
-// BMW1200.marca = "BMW";
-// BMW1200.modelo = "1200";
-// BMW1200.Acelerar(); 
+// // BMW1200.marca = "BMW";
+// // BMW1200.modelo = "1200";
+// // BMW1200.Acelerar(); 
 
 
